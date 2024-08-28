@@ -6,5 +6,5 @@ After installing, when you roll a skill check in Foundry VTT, your character's p
 
 # Install and Activate the Module
 
-. Place the double-proficiency-bonus directory into the modules directory of your Foundry VTT installation.
-. Start Foundry VTT, go to the Manage Modules settings, and activate your "Double Proficiency Bonus" module. 
+1. Place the double-proficiency-bonus directory into the modules directory of your Foundry VTT installation.
+2. Start Foundry VTT, go to the Manage Modules settings, and activate your "Double Proficiency Bonus" module. 
