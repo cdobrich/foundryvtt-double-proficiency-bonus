@@ -1,0 +1,18 @@
+{
+  "name": "double-proficiency-bonus",
+  "title": "Double Proficiency Bonus",
+  "description": "Adds your character's proficiency bonus twice to a skill roll.",
+  "version": "1.0.0",
+  "author": "Clifton Dobrich",
+  "esmodules": ["scripts/double-proficiency-bonus.js"],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "scripts": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "dependencies": [],
+  "system": []
+}
