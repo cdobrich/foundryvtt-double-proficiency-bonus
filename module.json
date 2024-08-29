@@ -1,6 +1,6 @@
 {
-		"id": "double-proficiency-bonus",
-		"title": "Double Proficiency Bonus",
+		"id": "exmin",
+		"title": "Expertise Proficiency Bonus",
 		"description": "Adds your character's proficiency bonus twice to a skill roll",
 		"version": "0.0.1",
     "library": "false",
@@ -15,7 +15,7 @@
 				}
 		],
     "esmodules": [
-				"scripts/double-proficiency-bonus.js"
+				"scripts/exmin.js"
     ],
 		"styles": [],
     "languages": [],
@@ -27,8 +27,8 @@
             }
         ]
     },
-    "url": "https://github.com/cdobrich/foundryvtt-double-proficiency-bonus",
+    "url": "https://github.com/cdobrich/foundryvtt-exmin",
     "manifest": "/releases/latest/download/module.json",
     "download": "/releases/download/0.14.0/module.zip",
-    "readme": "https://github.com/cdobrich/foundryvtt-double-proficiency-bonus#readme"
+    "readme": "https://github.com/cdobrich/foundryvtt-exmin#readme"
 }
